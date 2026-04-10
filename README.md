@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="www.linkedin.com/in/ilyas-abdisalam-4a4763207"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ilyas-abdisalam-4a4763207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ilyaasgaraad@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -24,9 +24,9 @@ When I'm not working with data, I enjoy making research about new technology, pl
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** research about my Thesis
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** research about my low resource languages.
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Content Creation:** Developing delivery application for a restaruant
 
 ## 🌱 Currently Learning 
 
