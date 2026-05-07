@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy making research about new technology, pl
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced data modeling and DAX in Power BI.
+- Data warehousing and analytics using SQL (joins, window functions, optimization)
 
 ## 🛠️ Technical Skillset
 
